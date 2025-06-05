@@ -20,7 +20,7 @@ The dataset includes information on items sold (Item Type, Fat Content, Visibili
 ![freshmart-dashboard](freshmart-dashboard.png)
 
 ## Link To Power Bi Report.
-Click the Link to explore the Power Bi report
+Click the Link to explore the Power Bi report []()
 
 ## Business Implications
 Outlets in Tier 1 and 2 locations may be underperforming due to poor inventory alignment. Health-based product demand presents a market opportunity the company should capitalize on.
@@ -32,6 +32,9 @@ Outlets in Tier 1 and 2 locations may be underperforming due to poor inventory a
 
 ## Conclusion
 The analysis shows that FreshMart’s sales performance varies by location and product type. With targeted strategies around healthier options and outlet optimization, the company can significantly improve overall profitability and customer satisfaction.
+
+## Tools Used
+Microsoft Excel & Power Bi
 
 
 

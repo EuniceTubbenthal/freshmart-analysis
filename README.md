@@ -13,9 +13,8 @@ The dataset includes information on items sold (Item Type, Fat Content, Visibili
 ![dataset-snapshot](dataset-snapshot.png)
 
 ## Key Findings
-. Low Fat items contribute over 60% of sales across all locations, indicating health-conscious consumer behavior.
+- Low Fat items contribute over 60% of sales across all locations, indicating health-conscious consumer behavior.
+- Tier 3 outlets have the highest average sales despite smaller sizes.
+- Supermarket Type1 consistently outperforms Grocery Stores in total sales and variety.
 
-. Tier 3 outlets have the highest average sales despite smaller sizes.
-
-
-. Supermarket Type1 consistently outperforms Grocery Stores in total sales and variety.
+## Dashboard

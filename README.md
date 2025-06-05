@@ -17,13 +17,15 @@ The dataset includes information on items sold (Item Type, Fat Content, Visibili
 - Tier 3 outlets have the highest average sales despite smaller sizes.
 - Supermarket Type1 consistently outperforms Grocery Stores in total sales and variety.
 
+![freshmart-dashboard](freshmart-dashboard.png)
+
 ## Business Implications
 Outlets in Tier 1 and 2 locations may be underperforming due to poor inventory alignment. Health-based product demand presents a market opportunity the company should capitalize on.
 
 ## Recommendations
--- Invest more in stocking and promoting Low Fat product categories.
--- Reevaluate store format strategy in Tier 1 locations.
--- Use Tier 3 performance models to guide new outlet openings.
+- Invest more in stocking and promoting Low Fat product categories.
+- Reevaluate store format strategy in Tier 1 locations.
+- Use Tier 3 performance models to guide new outlet openings.
 
 ## Conclusion
 The analysis shows that FreshMart’s sales performance varies by location and product type. With targeted strategies around healthier options and outlet optimization, the company can significantly improve overall profitability and customer satisfaction.

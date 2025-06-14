@@ -20,7 +20,7 @@ The dataset includes information on items sold (Item Type, Fat Content, Visibili
 ![freshmart-dashboard](freshmart-dashboard.png)
 
 ## Link To Power Bi Report.
-Click the Link to explore the Power Bi report []()
+Click the Link to explore the Power Bi report [Click here](https://app.powerbi.com/view?r=eyJrIjoiMmI1MmYzNzktNmRlYy00ZWFiLTk0NmMtYmRjZDBhNzEwMzYyIiwidCI6IjRlZmUwNjE0LWY1MzYtNDU1ZC1hMzc5LWMyY2E5MjlkMTIyMyJ9)
 
 ## Business Implications
 Outlets in Tier 1 and 2 locations may be underperforming due to poor inventory alignment. Health-based product demand presents a market opportunity the company should capitalize on.
